@@ -1,4 +1,4 @@
-# Corporate site
+# A fully integrated Cloud Based Property Management System
 
 Corporate website built with the Gatsby + Contentful + Netlify stack
 
